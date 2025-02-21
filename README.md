@@ -40,3 +40,9 @@ Características del Dashboard
 
 Este dashboard permite a los responsables del negocio tomar decisiones basadas en datos, mejorando la eficiencia operativa y maximizando las ventas.
 
+## Acceso al Dashboard  
+El análisis de ventas también está disponible en un dashboard interactivo de Power BI. Puedes explorarlo en el siguiente enlace:  
+
+🔗 [Ver Dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTJlYWE4ODQtZjg3My00YjE0LWE1MmQtNmY2NzZkNzg2ZDYzIiwidCI6IjYwZjlmYmU3LTY3ZjMtNGE0OS1hZDkwLTNkMjYxZjkyMDRjMSJ9)
+
+
